@@ -683,14 +683,14 @@ $size-header-pad: 4em;
 		}
 
 		&.avatar {
-			border-radius: 100%;
+			border-radius: 7%;
 
 			&:before {
 				display: none;
 			}
 
 			img {
-				border-radius: 100%;
+				border-radius: 7%;
 				width: 100%;
 			}
 		}

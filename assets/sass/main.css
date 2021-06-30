@@ -1718,13 +1718,13 @@ input[type=radio] + label:before {
   width: 100%;
 }
 .image.avatar {
-  border-radius: 10%;
+  border-radius: 7%;
 }
 .image.avatar:before {
   display: none;
 }
 .image.avatar img {
-  border-radius: 10%;
+  border-radius: 7%;
   width: 100%;
 }
 
