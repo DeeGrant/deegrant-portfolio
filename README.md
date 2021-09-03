@@ -1,6 +1,6 @@
 # deegrant-portfolio
 A simple webpage I'm using for [DeeGrant.com](https://www.deegrant.com)
-![website image](references/screen-shot-deegrant.png)
+![website image](ref/portfolio.png)
 
 ### Future Fixes
 * Structure
@@ -8,4 +8,4 @@ A simple webpage I'm using for [DeeGrant.com](https://www.deegrant.com)
 * Add content
 * Add projects   
 * Add size break overs
-* scale project images with window
+* Scale project images with window
