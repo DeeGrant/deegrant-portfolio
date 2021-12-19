@@ -3,6 +3,7 @@ $base-color: #3ca9cb;
 $secondary-color: #add6c4;
 $text-color: darken($background-color, 50%);
 
+// --------------- elements ---------------
 
 html {
   font-size: calc(12px + 0.5vw);
@@ -11,18 +12,8 @@ html {
 body {
   background-color: $background-color;
   color: $text-color;
-  padding: 2rem 2rem 0.5rem 2rem;
+  width: 100%;
 }
-
-//nav {
-//  position: fixed;
-//  top: 0;
-//  left: 0;
-//  width: 100%;
-//  display: flex;
-//  justify-content: center;
-//  background-color: beige;
-//}
 
 section {
   margin-bottom: 3rem;
@@ -45,13 +36,6 @@ h2 {
 h3 {
   font-size: 2rem;
 }
-
-//h4 {
-//  font-size: 1rem;
-//}
-
-
-
 
 ul {
   display: flex;
@@ -83,30 +67,37 @@ p {
 }
 
 footer {
-  // TODO: Media query for style change
-  //position: absolute;
-  //width: 100%;
-  //bottom: 0;
-
   display: flex;
   justify-content: center;
-
   padding-bottom: 0.5rem;
   color: darken($background-color, 25%);
 }
+
+// --------------- classes ---------------
 
 .project-image {
   margin-bottom: 1rem;
 }
 
-//#home {
-//  margin-top: 1.5rem;
-//}
+// --------------- ids ---------------
+
+#home {
+  p {
+    max-width: 20rem;
+  }
+}
+
+#main {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 2rem 2rem 0.5rem 2rem;
+}
 
 #headshot {
   float: right;
   height: 10rem;
-  padding-left: 0.5rem;
+  border-radius: 1rem;
+  margin: 0 1rem;
 }
 
 #projects-container {
@@ -120,4 +111,3 @@ footer {
 #contact {
   margin-bottom: 0.5rem;
 }
-

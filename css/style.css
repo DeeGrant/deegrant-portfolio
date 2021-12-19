@@ -5,7 +5,7 @@ html {
 body {
   background-color: white;
   color: gray;
-  padding: 2rem 2rem 0.5rem 2rem;
+  width: 100%;
 }
 
 section {
@@ -66,10 +66,21 @@ footer {
   margin-bottom: 1rem;
 }
 
+#home p {
+  max-width: 20rem;
+}
+
+#main {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 2rem 2rem 0.5rem 2rem;
+}
+
 #headshot {
   float: right;
   height: 10rem;
-  padding-left: 0.5rem;
+  border-radius: 1rem;
+  margin: 0 1rem;
 }
 
 #projects-container {
