@@ -47,6 +47,9 @@ a {
 a:hover {
   color: #78c4db;
 }
+a img:hover {
+  opacity: 0.75;
+}
 
 p {
   padding-bottom: 0.5rem;

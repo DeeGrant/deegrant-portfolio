@@ -70,6 +70,12 @@ a {
   &:hover {
     color: lighten($base-color, 15%);
   }
+
+  img {
+    &:hover {
+      opacity: .75;
+    }
+  }
 }
 
 p {
