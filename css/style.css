@@ -78,9 +78,9 @@ footer {
 
 #headshot {
   float: right;
-  height: 10rem;
+  height: 12rem;
   border-radius: 1rem;
-  margin: 0 1rem;
+  margin: 0 3rem;
 }
 
 #projects-container {
