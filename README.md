@@ -1,7 +1,11 @@
 # deegrant-portfolio
 A simple webpage I'm using for [DeeGrant.com](https://www.deegrant.com)
-![website image](references/screen-shot-deegrant.png)
+![Screen Shot](references/screen_shot.png)
 
-### Future Fixes
-* Update size on mobile
-* Font scaling in Safari requires refresh
+### Improvements
+* 'Fill out' site
+  * Software Engineer
+  * Services
+  * Story
+  * Projects
+  
