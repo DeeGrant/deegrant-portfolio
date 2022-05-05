@@ -1,5 +1,6 @@
 # deegrant-portfolio
 A simple webpage I'm using for [DeeGrant.com](https://www.deegrant.com)
+
 ![Screen Shot](references/screen_shot.png)
 
 ### Improvements
