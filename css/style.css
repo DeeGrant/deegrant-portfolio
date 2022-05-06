@@ -20,6 +20,9 @@ h1 {
     font-size: 2rem;
     margin-left: -0.2rem;
 }
+h4 {
+    letter-spacing: .05rem;
+}
 
 a:link, a:visited {
     color: rgb(45, 152, 185);

@@ -9,4 +9,5 @@ A simple webpage I'm using for [DeeGrant.com](https://www.deegrant.com)
   * Services
   * Story
   * Projects
-  
+* Add PolyWork Icon
+  * scaling a svg the same as an icon
